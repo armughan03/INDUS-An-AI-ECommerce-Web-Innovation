@@ -7,3 +7,6 @@
  - I want this
  - how about rs. 1500/-
  - If accepted add the product to cart
+
+
+# IT IS CURRENTLY NOT MAINTAINED
